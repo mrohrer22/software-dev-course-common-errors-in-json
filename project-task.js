@@ -91,11 +91,12 @@ const invalidBookingJSON = `
 💬 Reflect and answer the following:
 
 1️⃣ What tools or techniques did you use to identify the errors?
-
+put it into a json file and followed the errors
 2️⃣ How did you confirm that your corrected JSON file was valid?
-
+https://jsonlint.com/
 3️⃣ Which errors were the most difficult to spot? Why?
-
+Extra commas
 4️⃣ What strategies can help you avoid these kinds of errors in the future?
    (e.g., syntax highlighting, linters, writing JSON by example)
+Use of linters
 */
